@@ -1,5 +1,4 @@
 # KitEdit
 
-Splatoon 3 kit editor.
-
+Splatoon 3 kit editor.\
 https://umizuumie.github.io/KitEdit/
